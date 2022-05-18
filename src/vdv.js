@@ -1,4 +1,4 @@
-const zaxuserkey = zaxudserkey;
+const zaxuserkey = WG5UVkxFvKk9mbcc;
 if(document.referrer){
     const url = new URL(document.referrer);
 	var zxlang = url.searchParams.get("l");
